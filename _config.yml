@@ -28,7 +28,7 @@ twitter_username:
 github_username:  alcayaga
 
 # Build settings
-theme: texture
+# theme: texture
 remote_theme: thelehhman/texture
 
 plugins:
