@@ -33,8 +33,9 @@ show_excerpts: true
 
 
 # Build settings
-theme: minima
-#remote_theme: thelehhman/texture
+# theme: minima
+# theme: texture
+remote_theme: thelehhman/texture
 
 plugins:
   - jekyll-feed
@@ -59,6 +60,13 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+header_pages:
+  - index.markdown
+  - blog.markdown
+  - resume.markdown
+  - about.markdown
+
+
 minima:
   social_links:
     github: alcayaga
@@ -69,6 +77,8 @@ minima:
 texture:
   title: Pablo Alcayaga
   tagline: Industrial Engineer
+  style: blue
+  showNav: true
   date_format: "%b %-d, %Y"
 
   social_links:
