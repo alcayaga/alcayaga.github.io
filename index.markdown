@@ -9,7 +9,7 @@ title: Home
 Thanks for coming. Work in progress!
 
 
-Meanwhile check:
+Meanwhile please check:
 - My photos at [500px](https://500px.com/pabloalcayaga)
 - [LinkedIn](https://www.linkedin.com/in/pablo-alcayaga)
 - [Github](https://github.com/alcayaga)
