@@ -80,6 +80,7 @@ texture:
   style: blue
   showNav: true
   date_format: "%b %-d, %Y"
+  analytics_id: UA-156017226-1
 
   social_links:
     #twitter: thelehhman
